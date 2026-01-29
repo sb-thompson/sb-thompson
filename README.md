@@ -1,14 +1,14 @@
 ### Hi there 
 
-🌍 I'm an Earth & Climate scientist, currently working as a Postdoctoral Scholar in the Geography Department at the University of Oregon! I study how ice has shaped the history of our planet
+🌍 &nbsp; I'm an Earth & Climate scientist, currently working as a Postdoctoral Scholar in the Geography Department at the University of Oregon! I study how ice has shaped the history of our planet, from glaciers which covered our planet during the last Ice Age, to how recent ice responded to our planet's climate at the start of the industrial revolution. 
 
-They study the Greenland ice sheet and how it has changed over the last few centuries, as part of a larger interest in how ice has shaped the history of our planet. Additionally, they are passionate about earth & climate science communication through classroom visits, museum outreach, and talking about rocks to anyone who will listen.
-
-
+🪨 &nbsp; I'm also passionate about science communication through classroom visits, museum outreach, and talking about rocks to anyone who will listen. If you want an example, try my interview about [ROCKS!](https://www.alieward.com/ologies/geology) on the Ologies Podcast!
 
 ### Education 
 
+Doctorate of Philosopy - Geology (2019)
 
+Bachelors of Science - Geoscience and Mathematics 
 
 
 
@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+&nbsp; &nbsp; &nbsp; &nbsp;
