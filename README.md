@@ -4,6 +4,9 @@
 
 🪨 &nbsp; I'm also passionate about science communication through classroom visits, museum outreach, and talking about rocks to anyone who will listen. If you want an example, try my interview about [ROCKS!](https://www.alieward.com/ologies/geology) on the Ologies Podcast!
 
+🎨 &nbsp; Coding is also creative! I've been taking my coding experience and love of building creative projects and learning about game design!
+
+
 ### Education 
 
 Doctorate of Philosopy - Geology (2019)
