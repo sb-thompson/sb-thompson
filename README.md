@@ -1,4 +1,4 @@
-### Hi there 
+## Hi there!
 
 🌍 &nbsp; I'm an Earth & Climate scientist, currently working as a Postdoctoral Scholar in the Geography Department at the University of Oregon! I study how ice has shaped the history of our planet, from glaciers which covered our planet during the last Ice Age, to how recent ice responded to our planet's climate at the start of the industrial revolution. 
 
@@ -6,12 +6,18 @@
 
 🎨 &nbsp; Coding is also creative! I've been taking my coding experience and love of building creative projects and learning about game design!
 
+<br /> 
 
-### Education 
 
-Doctorate of Philosopy - Geology (2019)
 
-Bachelors of Science - Geoscience and Mathematics 
+## Education 
+
+**Doctor of Philosophy** | Geology <br />
+Oregon State University, Corvallis, OR, 2024                                
+
+
+**Bachelors of Science** | Geology and Mathematics <br />
+Northland College, Ashland, WI, 2024
 
 
 
